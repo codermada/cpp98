@@ -52,7 +52,7 @@ namespace	TB = T::B;
 
 using std::cout;
 using std::endl;
-egwqrunxgy4Q
+
 int	main()
 {
 	std::cout << a << std::endl;
